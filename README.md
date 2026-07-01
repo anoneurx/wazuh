@@ -1,1 +1,1 @@
-# wazuh
+# wazuh Setup
